@@ -17,3 +17,4 @@
   <input typw="text" name="txtName">
 </form>
 ne deyisdiki?anlamadim tam?
+<b>Welcome BMU students</b>
