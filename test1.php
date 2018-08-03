@@ -4,4 +4,5 @@
  $a =5;
  $b = 8;
  echo $a + $b;
+ echo $a * $b;
 ?>
