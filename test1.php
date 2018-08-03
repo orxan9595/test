@@ -5,4 +5,8 @@
  $b = 8;
  echo $a + $b;
  echo $a * $b;
+ echo $a / $b;
 ?>
+<form>
+  <input typw="text" name="txtName">
+</form>
