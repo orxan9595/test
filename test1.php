@@ -18,8 +18,3 @@
 </form>
 ne deyisdiki?anlamadim tam?
 <b>Welcome BMU students</b>
-<b>Welcome BMU students</b>
-<b>Welcome BMU students</b>
-<b>Welcome BMU students</b>
-<b>Welcome BMU students</b>
-<b>Welcome BMU students</b>
