@@ -10,3 +10,9 @@
 <form>
   <input typw="text" name="txtName">
 </form>
+<form>
+  <input typw="text" name="txtName">
+</form>
+<form>
+  <input typw="text" name="txtName">
+</form>
